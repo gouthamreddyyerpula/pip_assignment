@@ -140,12 +140,12 @@ WSGI_APPLICATION = 'pip_backend.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'sql6641819',
-        'USER': 'sql6641819',
-        'PASSWORD': 's9HGuameKE',
-        'HOST': ' sql6.freesqldatabase.com',
+        'NAME': 'assignment_pip_1',
+        'USER': 'assignment_pip_1',
+        'PASSWORD': 'Goutham@123',
+        'HOST': 'db4free.net',
         'PORT': '3306',
-        'OPTIONS': {'charset': 'utf8mb4'},
+        # 'OPTIONS': {'charset': 'utf8mb4'},
     }
 }
 
